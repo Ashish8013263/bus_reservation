@@ -1,6 +1,6 @@
 # BUS RESERVATION 
 
-HOME
+# HOME
 ![image](/ScreenShots/home.png)
 
 ALL BUS 
