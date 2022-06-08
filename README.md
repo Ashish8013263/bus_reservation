@@ -1,24 +1,24 @@
 # BUS RESERVATION 
 
-# HOME
+# Home page
 ![image](/ScreenShots/home.png)
 
-ALL BUS 
+# All Bus 
 ![image](/ScreenShots/all_bus.png)
 
-BOOK TICKET
+# Book Ticket
 ![image](/ScreenShots/book_ticket.png)
 
-BOOKED TICKET
+# Booked Ticket
 ![image](/ScreenShots/booked_ticket.png)
 
-ADD NEW BUS
+# Add New Bus
 ![image](/ScreenShots/add_new_bus.png)
 
-BUS DETAIL
+# Bus Detail
 ![image](/ScreenShots/bus_detail_id.png)
 
-DELETE BUS
+# Delete Bus
 ![image](/ScreenShots/delete_bus.png)
 
 
