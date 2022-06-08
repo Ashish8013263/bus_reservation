@@ -1,2 +1,3 @@
 # bus_reservation
-![Uploading Homepage.png…]
+![image](/ScreenShots/Homepage.png)
+
